@@ -227,12 +227,6 @@ to check for style and code issues.
 
 ---
 
-## 📝 Notes & Limitations
-
-- Many data sources (missions, soil data, leaderboard, forum posts) use **mock data** for demonstration.
-- Voice command recognition is a **simplified** local mapping; production‑level STT would require integration with a real service (e.g., Google Speech‑to‑Text).
-- Some features may require running on a real device or simulator with proper TTS voices installed.
-
 ---
 
 ## 📄 License
